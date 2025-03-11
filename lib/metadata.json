@@ -1,0 +1,1103 @@
+{
+  "vaultName": "Undergrad Obsidian Vault",
+  "lastExport": 1741661580079,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon ctp-latte ctp-mocha-old ctp-accent-flamingo anuppuccin-accent-toggle anp-current-line anp-callout-sleek anp-callout-color-toggle anp-codeblock-numbers anp-list-toggle anp-table-toggle anp-toggle-preview anp-color-transition-toggle anp-toggle-scrollbars anp-h1-rosewater anp-h1-divider anp-h2-blue anp-h2-divider anp-h3-mauve anp-h3-divider anp-h4-teal anp-h5-rosewater anp-h6-mauve anp-decoration-toggle anp-bold-lavender anp-italic-rosewater anp-highlight-maroon anp-file-icons anp-simple-rainbow-color-toggle anp-rainbow-file-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-simple-rainbow-indentation-toggle anp-rainbow-subfolder-color-toggle anp-card-layout anp-bg-fix anp-card-shadows anp-card-layout-filebrowser anp-background-image-toggle rainbow-repeat-2 rainbow-color-1-blue rainbow-color-2-accent rainbow-color-3-pink rainbow-color-4-mauve rainbow-color-5-rosewater rainbow-color-6-lavender rainbow-color-7-rosewater rainbow-color-8-rosewater rainbow-color-9-rosewater rainbow-color-10-rosewater rainbow-color-11-rosewater ctp-nord-light ctp-nord-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/24 ENCH 446 Deliverables V.1.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Deliverables.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Projects.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Syllabus, Schedule.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Textbooks.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2024 446 Coordinating Project Choices.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24 - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24 1.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ASPEN CSTR Trouble-Shooting.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/CE_BC_2016_UreaGroupReport.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Chemie Ingenieur Technik - 2014 - Meessen - Urea synthesis.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Course Outcomes.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/CSTR Simulation Model Development.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Debugging Help Request.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Economic Analysis.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Electrolyte NRTL Model Development.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Emmissions Handling - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENCH 446 Process Econ & Design II.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENCH446_COW_Spring.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Balance About Each Unit Op.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Balance Code.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Integration and Optimization.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Engineering Documentation.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENRTL Activity Coefficient Calculation.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Environmental and Sustainability Considerations.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Environmental Footprint mitigation - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Data Visualization Code.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Literature Search and Code Development.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Literature Search and Code Development.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Firing Policy.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Firing Policy ENCH 446.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/GPSS3.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Handbook of Petrochemical Processes (James G. Speight) (Z-Library).pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/high_res_plot.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Introduction and Design Basis.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Kinetics and Thermodynamics.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Manufacture_of_Urea.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Mass and Energy Balance.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250309054521.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310114316.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310194348.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224008.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224047.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224232.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224254.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224400.png",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Control Strategy for Stable Operation.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Flow Diagrams - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Units and Operating Conditions.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process_Design_Includes_Systems - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Project Scope.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Reaction Chemistry, Kinetics, and Thermodynamics.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Report and Presentation Booklet 446 _2017 V1 - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Report and Presentations Booklet.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/rotating_plot.gif",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Scope of Outside Battery Limit Facilities - Tagged.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Scope of Outside Battery Limit Facilities - Tagged 1.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Sensitivity Analysis.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Separations.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Stripping Process Overview.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/TENTATIVE 25_446 Syllabus V.1.pdf",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Urea 51 Project Index.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/UREA 51 Project Overview.md",
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Urea Process Literature.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/24 ENCH 446 Deliverables V.1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 404487,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/24-ench-446-deliverables-v.1.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Deliverables.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 168,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/446-deliverables.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/24-ench-446-deliverables-v.1.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Projects.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 707,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/446-projects.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24-tagged.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2024-446-coordinating-project-choices.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Syllabus, Schedule.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 230,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/446-syllabus,-schedule.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/tentative-25_446-syllabus-v.1.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/446 Textbooks.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 170,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/446-textbooks.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/handbook-of-petrochemical-processes-(james-g.-speight)-(z-library).pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2024 446 Coordinating Project Choices.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 34502,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2024-446-coordinating-project-choices.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 685910,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24 - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 770853,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/2025 AIChE Student Design Competition Problem Statement-Rules_7.26.24 1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 685910,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24-1.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ASPEN CSTR Trouble-Shooting.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 68443028,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/aspen-cstr-trouble-shooting.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/CE_BC_2016_UreaGroupReport.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5751739,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ce_bc_2016_ureagroupreport.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Chemie Ingenieur Technik - 2014 - Meessen - Urea synthesis.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 676163,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/chemie-ingenieur-technik-2014-meessen-urea-synthesis.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Course Outcomes.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 149,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/course-outcomes.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ench446_cow_spring.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/CSTR Simulation Model Development.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 10427,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/cstr-simulation-model-development.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224008.png",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224047.png",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224254.png",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224232.png",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224400.png"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Debugging Help Request.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 4712780,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/debugging-help-request.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Economic Analysis.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 6510,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/economic-analysis.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Electrolyte NRTL Model Development.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 205,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/electrolyte-nrtl-model-development.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Emmissions Handling - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 46645,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/emmissions-handling-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENCH 446 Process Econ & Design II.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 400,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ench-446-process-econ-&-design-ii.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENCH446_COW_Spring.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 134537,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ench446_cow_spring.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Balance About Each Unit Op.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 4101,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/energy-balance-about-each-unit-op.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Balance Code.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5964,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/energy-balance-code.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Energy Integration and Optimization.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 8109,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/energy-integration-and-optimization.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Engineering Documentation.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 617,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/engineering-documentation.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/gpss3.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/environmental-footprint-mitigation-tagged.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/emmissions-handling-tagged.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-flow-diagrams-tagged.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process_design_includes_systems-tagged.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/scope-of-outside-battery-limit-facilities-tagged-1.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/ENRTL Activity Coefficient Calculation.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 3252,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/enrtl-activity-coefficient-calculation.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Environmental and Sustainability Considerations.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5674,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/environmental-and-sustainability-considerations.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Environmental Footprint mitigation - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 48518,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/environmental-footprint-mitigation-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Data Visualization Code.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 8037,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-data-visualization-code.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/rotating_plot.gif",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310194348.png",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-literature-search-and-code-development.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/debugging-help-request.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Literature Search and Code Development.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 28082706,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-literature-search-and-code-development.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Equilibrium Conversion Literature Search and Code Development.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 148756,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-literature-search-and-code-development.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Firing Policy.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 115,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/firing-policy.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/firing-policy-ench-446.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Firing Policy ENCH 446.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 104113,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/firing-policy-ench-446.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/GPSS3.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 2690513,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/gpss3.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Handbook of Petrochemical Processes (James G. Speight) (Z-Library).pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 13846098,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/handbook-of-petrochemical-processes-(james-g.-speight)-(z-library).pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/high_res_plot.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 145024,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/high_res_plot.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Introduction and Design Basis.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 6919,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/introduction-and-design-basis.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Kinetics and Thermodynamics.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 557,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/kinetics-and-thermodynamics.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Manufacture_of_Urea.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 414254,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/manufacture_of_urea.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Mass and Energy Balance.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1980,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/mass-and-energy-balance.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310114316.png"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250309054521.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 244699,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250309054521.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310114316.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 400145,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310114316.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310194348.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 48108,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310194348.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224008.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 20271,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224008.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224047.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 20951,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224047.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224232.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 17849,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224232.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224254.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 17652,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224254.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Pasted image 20250310224400.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 19267,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224400.png",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Control Strategy for Stable Operation.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 12606,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-control-strategy-for-stable-operation.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Flow Diagrams - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 66880,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-flow-diagrams-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process Units and Operating Conditions.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 23299,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-units-and-operating-conditions.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Process_Design_Includes_Systems - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 307374,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process_design_includes_systems-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Project Scope.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 2666,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/project-scope.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/chemie-ingenieur-technik-2014-meessen-urea-synthesis.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Reaction Chemistry, Kinetics, and Thermodynamics.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 10676,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/reaction-chemistry,-kinetics,-and-thermodynamics.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Report and Presentation Booklet 446 _2017 V1 - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 269063,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/report-and-presentation-booklet-446-_2017-v1-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Report and Presentations Booklet.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 146,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/report-and-presentations-booklet.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/report-and-presentation-booklet-446-_2017-v1-tagged.pdf"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/rotating_plot.gif": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 4484292,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/rotating_plot.gif",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Scope of Outside Battery Limit Facilities - Tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 89993,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/scope-of-outside-battery-limit-facilities-tagged.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Scope of Outside Battery Limit Facilities - Tagged 1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 89993,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/scope-of-outside-battery-limit-facilities-tagged-1.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Sensitivity Analysis.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5970,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/sensitivity-analysis.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Separations.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 84,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/separations.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Stripping Process Overview.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 6966,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/stripping-process-overview.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/TENTATIVE 25_446 Syllabus V.1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1014559,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/tentative-25_446-syllabus-v.1.pdf",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Urea 51 Project Index.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 485,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/urea-51-project-index.html",
+      "dependencies": []
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/UREA 51 Project Overview.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 12972,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/urea-51-project-overview.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250309054521.png"
+      ]
+    },
+    "Coursework/Year 4/Semester 2/ENCH 446 Process Econ & Design II/Urea Process Literature.md": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 253,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/urea-process-literature.html",
+      "dependencies": [
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ce_bc_2016_ureagroupreport.pdf",
+        "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/manufacture_of_urea.pdf"
+      ]
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/24-ench-446-deliverables-v.1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 404487,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/24-ench-446-deliverables-v.1.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 770853,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2025-aiche-student-design-competition-problem-statement-rules_7.26.24-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2024-446-coordinating-project-choices.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 34502,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/2024-446-coordinating-project-choices.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/tentative-25_446-syllabus-v.1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1014559,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/tentative-25_446-syllabus-v.1.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/handbook-of-petrochemical-processes-(james-g.-speight)-(z-library).pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 13846098,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/handbook-of-petrochemical-processes-(james-g.-speight)-(z-library).pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ench446_cow_spring.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 134537,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ench446_cow_spring.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224008.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 20271,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224008.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224047.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 20951,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224047.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224254.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 17652,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224254.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224232.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 17849,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224232.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224400.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 19267,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310224400.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/gpss3.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 2690513,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/gpss3.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/environmental-footprint-mitigation-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 48518,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/environmental-footprint-mitigation-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/emmissions-handling-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 46645,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/emmissions-handling-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-flow-diagrams-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 66880,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process-flow-diagrams-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process_design_includes_systems-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 307374,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/process_design_includes_systems-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/scope-of-outside-battery-limit-facilities-tagged-1.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 89993,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/scope-of-outside-battery-limit-facilities-tagged-1.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/rotating_plot.gif": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 4484292,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/rotating_plot.gif",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310194348.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 48108,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310194348.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-literature-search-and-code-development.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 28082706,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/equilibrium-conversion-literature-search-and-code-development.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/debugging-help-request.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 4712780,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/debugging-help-request.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/firing-policy-ench-446.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 104113,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/firing-policy-ench-446.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310114316.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 400145,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250310114316.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/chemie-ingenieur-technik-2014-meessen-urea-synthesis.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 676163,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/chemie-ingenieur-technik-2014-meessen-urea-synthesis.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/report-and-presentation-booklet-446-_2017-v1-tagged.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 269063,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/report-and-presentation-booklet-446-_2017-v1-tagged.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250309054521.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 244699,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/pasted-image-20250309054521.png",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ce_bc_2016_ureagroupreport.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5751739,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/ce_bc_2016_ureagroupreport.pdf",
+      "dependencies": []
+    },
+    "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/manufacture_of_urea.pdf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 414254,
+      "exportedPath": "coursework/year-4/semester-2/ench-446-process-econ-&-design-ii/manufacture_of_urea.pdf",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 31826,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 5291,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 137567,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 272562,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 444,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 34885,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1741661580079,
+      "sourceSize": 343939,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
